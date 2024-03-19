@@ -21,31 +21,7 @@
         }
     },
     {
-        "NTSC LEVEL_SELECT": 
-        {
-            "name": "spyro1.bin",
-            "symbols": 
-            [
-                "symbols.txt",
-                "funcs.txt"
-            ],
-            "build_id": 94232
-        }
-    },
-    {
         "PS2_NTSC": 
-        {
-            "name": "spyro1.bin",
-            "symbols": 
-            [
-                "symbols.txt",
-                "funcs.txt"
-            ],
-            "build_id": 94230
-        }
-    },
-    {
-        "PS2_NTSC LEVEL_SELECT": 
         {
             "name": "spyro1.bin",
             "symbols": 
