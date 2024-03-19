@@ -9,6 +9,8 @@
 //Constants
 //~~~~~~~~~
 
+#define JR_RA 0x03E00008
+
 #define SCREEN_LEFT_EDGE 0x0
 #define SCREEN_RIGHT_EDGE 0x200
 #define SCREEN_TOP_EDGE 0x0

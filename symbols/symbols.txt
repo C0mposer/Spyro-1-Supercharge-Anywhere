@@ -136,3 +136,8 @@ _2nd_loot_key = 0x8014AF74;
 
 _3rd_loot_key_collected = 0x801545D8;
 _3rd_loot_key = 0x8014B1DC;
+
+_supercharge_ramp_height = 0x80078BB0;
+
+UpdateSpyroAnim = 0x8003CCE4;
+UpdateSpyroAnim_2 = 0x8003CCE8;
