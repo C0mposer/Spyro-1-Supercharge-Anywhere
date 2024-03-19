@@ -16,7 +16,7 @@ It can be played on PS1, PS2, PS3, and most emulators.
 **Be sure to download the correct version for the platform you are going to play on**
 ## PS2
  **BIN/CUE Download**
-To simply download the patched rom and get practicing, download the cue/bin here:
+Download the bin/cue here:
 [PS2 bin/cue](https://github.com/C0mposer/Spyro-1-Supercharge-Anywhere/releases/download/fullrelease1.0/spyro1_SuperchargeAnywhere_PS2.zip)
 
 **Xdelta Downloads**:
@@ -26,7 +26,7 @@ If you wish to patch your own personal spyro 1 bin/cue file instead, download th
 *Note: To play this rom on PS2 requires either a [MechaPwn'd](https://github.com/MechaResearch/MechaPwn) or modchipped PS2 to read the burned disc. Must be a CD not a DVD.*
  ## All Other Platforms (PS1, PS3, Emulator, etc)
 **BIN/CUE Download**
-To simply download the rom and get practicing, download the cue/bin here:
+Download the bin/cue here:
 [PS1/PS3/EMU bin/cue](https://github.com/C0mposer/Spyro-1-Supercharge-Anywhere/releases/download/fullrelease1.0/spyro1_SuperchargeAnywhere_PS1.zip)
 
 **Xdelta Downloads**:
