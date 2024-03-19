@@ -22,10 +22,7 @@ To simply download the patched rom and get practicing, download the cue/bin here
 **Xdelta Downloads**:
 If you wish to patch your own personal spyro 1 bin/cue file instead, download the patch here:
 [PS2 Xdelta Patch](https://github.com/C0mposer/Spyro-1-Supercharge-Anywhere/releases/download/fullrelease1.0/spyro1_SuperchargeAnywhere_PS2.xdelta)
-
-
-(*Note: to play this on PS2 with a burnt CD will require you to specifically download the **PS2 version**. It will also require you to have a softmodded PS2 with [MechaPwn](https://github.com/MechaResearch/MechaPwn) installed, or have a modchip.*)
-
+  
 *Note: To play this rom on PS2 requires either a [MechaPwn'd](https://github.com/MechaResearch/MechaPwn) or modchipped PS2 to read the burned disc. Must be a CD not a DVD.*
  ### All Other Platforms (PS1, PS3, Emulator, etc)
 **BIN/CUE Download**
