@@ -64,4 +64,4 @@ If you wish to compile the mod yourself, you'll need a few prerequisites
 
 ## Contact
 
-If you need any help building this project, or are just trying to get into spyro/game modding in general, feel free to reach out to us on discord: **Composer** & **OddKara** :)
+If you need any help building this project, or are just trying to get into spyro/game modding in general, feel free to reach out to me on discord: **Composer** :)
