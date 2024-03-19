@@ -12,12 +12,6 @@ To play this on PS2 with a burnt CD will require you to specifically download th
 1. Activate Supercharge (**Square 3 times in air**)
 2. Increase Supercharge Speed (**R1 while supercharging**)
 3. Decrease Supercharge Speed (**L1 while supercharging**)
-
-
-## Other Features:
-
-### Automatically Skips Intro:
-Skips straight to "The Adventure Continues..."
 	
 
 # Downloads
