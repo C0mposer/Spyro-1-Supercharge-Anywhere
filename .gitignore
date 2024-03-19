@@ -407,3 +407,10 @@ mods/SuperchargeAnywhere/debug/redux.map
 mods/SuperchargeAnywhere/debug/source.txt
 mods/SuperchargeAnywhere/plugins/plugin.py
 mods/SuperchargeAnywhere/plugins/__pycache__/plugin.cpython-310.pyc
+build/spyro1_SuperchargeAnywhere.xdelta
+build/bootedit/spyro1_SuperchargeAnywhere_PS1.xdelta
+build/bootedit/spyro1_SuperchargeAnywhere_PS1.zip
+build/bootedit/spyro1_SuperchargeAnywhere_PS2.xdelta
+build/bootedit/spyro1_SuperchargeAnywhere_PS2.zip
+build/bootedit/spyro1_SuperchargeAnywhere.bin
+build/bootedit/spyro1_SuperchargeAnywhere.cue
