@@ -2,14 +2,16 @@
 
 # Spyro 1 Supercharge Anywhere Mod
 
-This mod for the original Spyro the Dragon lets you supercharge anywhere in any level by pressing **Square 3 times** when in the air.
+This mod for the original Spyro the Dragon lets you supercharge anywhere in any level!
 
-This can be played on PS1, PS2, PS3, and most emulators. 
+It can be played on PS1, PS2, PS3, and most emulators. 
 
 To play this on PS2 with a burnt CD will require you to specifically download the **PS2 version**. It will also require you to have a softmodded PS2 with [MechaPwn](https://github.com/MechaResearch/MechaPwn) installed, or have a modchip.
 
 ## Hotkeys:
 1. Supercharge (**Square 3 times in air**)
+2. Increase Supercharge Speed (**R1 while supercharging**)
+3. Decrease Supercharge Speed (**L1 while supercharging**)
 
 
 ## Other Features:
