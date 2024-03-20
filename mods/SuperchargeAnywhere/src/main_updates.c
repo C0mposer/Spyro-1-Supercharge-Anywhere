@@ -29,8 +29,8 @@ void SkipIntro()
 //Changing asm instructions for pause menu RGB. Cannot change B value, as the value is in a shared register with other crucial parts of the struct.
 inline void SetTitleScreenColor(byte r, byte g)
 {
-    *(short*)(0x8001A674) = r;
-    *(short*)(0x8001A67C) = g;
+    menuColorR = r;
+    menuColorG = g;
 }
 
 
@@ -43,14 +43,12 @@ void MainUpdate()
     {
         SkipIntro();
         mod_state = SKIPPED_INTRO;
-        _musicVolume = 0;
     }
 
     //Run once upon skipping intro
     if(mod_state == SKIPPED_INTRO)
     {
         mod_state = UNLOCKED_LEVELS;
-        _globalLives = 99;
         SetTitleScreenColor(bg_colors[0].r, bg_colors[0].g);
         //memset((void*)0x8001b648, 0, 0x350); //Clear top of inventory menu   
     }

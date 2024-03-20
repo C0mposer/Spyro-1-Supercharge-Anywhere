@@ -21,6 +21,17 @@
         }
     },
     {
+        "PAL": 
+        {
+            "name": "pal.bin",
+            "symbols": 
+            [
+                "pal.txt"
+            ],
+            "build_id": 94229
+        }
+    },
+    {
         "PS2_NTSC": 
         {
             "name": "spyro1.bin",

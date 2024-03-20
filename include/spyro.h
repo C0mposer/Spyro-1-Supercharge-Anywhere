@@ -172,7 +172,10 @@ int glideUsed;                                      //? intean for if Spyro has 
 
 int isGliding;                                      //? intean for if Spyro is currently gliding.
 
-int neutralJumpZPos;
+union{
+    int neutralJumpZPos;
+    int superchargeHeightStarted;
+};
 
 int isGrounded;                                     //? intean for if Spyro is currently grounded.
 

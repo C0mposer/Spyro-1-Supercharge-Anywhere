@@ -1,0 +1,17 @@
+
+
+_spyro = 0x8007f3e8;
+
+_currentButtonOneFrame = 0x8007dd08;
+
+UpdateSpyroAnim = 0x80042110;
+UpdateSpyroAnim_2 = 0x80042114;
+
+TheAdventureBegins = 0x800324b8;
+
+menuColorR = 0x8001e524;
+menuColorG = 0x8001e52c;
+
+_isPastTitleScreen = 0x8007bf34;
+
+_globalTimer = 0x8007aec8;

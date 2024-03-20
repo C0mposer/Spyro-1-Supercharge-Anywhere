@@ -18,6 +18,12 @@
 
 #define SECONDS 30
 
+
+enum Region
+{
+    NTSC = 0,
+    PAL = 1
+};
 typedef enum Direction
 {
     LEFT,
@@ -451,5 +457,8 @@ extern bool _isInInGameCutscene;
 extern bool _spyroInvisible;
 
 extern int _treeTopsThiefTimer;
+
+extern short menuColorR;
+extern short menuColorG;
 
 #endif /* COMMON_H */

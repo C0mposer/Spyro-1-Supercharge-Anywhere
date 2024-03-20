@@ -139,5 +139,8 @@ _3rd_loot_key = 0x8014B1DC;
 
 _supercharge_ramp_height = 0x80078BB0;
 
+menuColorR = 0x8001A674;
+menuColorG = 0x8001A67C;
+
 UpdateSpyroAnim = 0x8003CCE4;
 UpdateSpyroAnim_2 = 0x8003CCE8;
