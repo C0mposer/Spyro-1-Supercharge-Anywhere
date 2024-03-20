@@ -7,7 +7,7 @@ This mod for the original Spyro the Dragon lets you supercharge anywhere in any 
 It can be played on PS1, PS2, PS3, and most emulators. 
 
 ## Hotkeys:
-1. Activate Supercharge (**Square 3 times in air**)
+1. Activate Supercharge (**Square 2 times in air**)
 2. Increase Supercharge Speed (**R1 while supercharging**)
 3. Decrease Supercharge Speed (**L1 while supercharging**)
 	
